@@ -5,7 +5,6 @@ This project aims to develop and evaluate various machine learning models for cl
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Dataset](#dataset)
 - [Methodology](#methodology)
     - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
     - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
@@ -24,9 +23,6 @@ This project aims to develop and evaluate various machine learning models for cl
 
 Accurately classifying credit scores is crucial for financial institutions to assess the creditworthiness of potential borrowers. This project aims to build robust models to predict credit scores (Good, Standard, Poor) based on various customer attributes, such as income, debt, payment behavior, and credit history.
 
-## Dataset
-
-* **Description:** [Briefly describe the dataset, including the number of samples, features, and target variable]
 
 
 ## Methodology
